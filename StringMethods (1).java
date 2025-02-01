@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-class StringMethods{
+class StringMethods (1){
     public static void main(String[] args) {
 
         String str1 = "hello";
